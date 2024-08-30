@@ -2,6 +2,19 @@ This is a project made for 100xDevs SuperTeam Mini Hackathon, made with solana a
 
 ‼️ STILL UNDER CONSTRUCTION ‼️ 
 
+## Deployment
+
+
+## To Do's
+Front-End
+✅ Auth
+    User Dashboard 
+    Party/Group 
+Back-end
+    Intialise DB
+    Auth
+    Setting up Solana Transactions
+
 ## SmokeParty. Manage your Smoking Groups without smoking your head. 
 
 In this Decentralized app, users can make a wallet, deposit funds, create and manage smoking groups all on the Solana Blockchain.
@@ -31,3 +44,9 @@ The Indian Wood
 ---
 
 ITC Limited (formerly India Tobacco Company Limited)
+
+## Stack
+- Next 14
+- Firebase
+
+
