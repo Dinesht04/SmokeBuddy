@@ -8,12 +8,12 @@ This is a project made for 100xDevs SuperTeam Mini Hackathon, made with solana a
 ## To Do's
 Front-End  
 ✅ Auth  
-    User Dashboard   
-    Party/Group   
+❌ User Dashboard   
+❌ Party/Group   
 Back-end  
-    Intialise DB  
-    Auth  
-    Setting up Solana Transactions  
+❌  Intialise DB  
+❌  Auth  
+❌  Setting up Solana Transactions  
 
 ## SmokeParty. Manage your Smoking Groups without smoking your head. 
 
