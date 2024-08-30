@@ -3,17 +3,17 @@ This is a project made for 100xDevs SuperTeam Mini Hackathon, made with solana a
 ‼️ STILL UNDER CONSTRUCTION ‼️ 
 
 ## Deployment
-
+[Click here](https://smoke-buddy.vercel.app/)
 
 ## To Do's
-Front-End
-✅ Auth
-    User Dashboard 
-    Party/Group 
-Back-end
-    Intialise DB
-    Auth
-    Setting up Solana Transactions
+Front-End  
+✅ Auth  
+    User Dashboard   
+    Party/Group   
+Back-end  
+    Intialise DB  
+    Auth  
+    Setting up Solana Transactions  
 
 ## SmokeParty. Manage your Smoking Groups without smoking your head. 
 
