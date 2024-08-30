@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a project made for 100xDevs SuperTeam Mini Hackathon, made with solana and <3
 
-## Getting Started
+## SmokeParty. Manage your Smoking Groups without smoking your head. 
 
-First, run the development server:
+In this Decentralized app, users can make a wallet, deposit funds, create and manage smoking groups all on the Solana Blockchain.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The smoke party can be initiated by any member, as long as they have enough sol that represents buying a Cigaratte / choti advance / the cigarette they choose from our vast database.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The user in the group is notified only when he/she has enough Sol to contribute to the cigarette in their wallet when a SmokeParty starts.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## The backend handles all the contribution logic, i.e. :-
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+⇒ Deducting Funds from participating members
 
-## Learn More
+⇒ Sending those funds to the guy who bought the cigarette
 
-To learn more about Next.js, take a look at the following resources:
+## Rank Based System
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Groups have ranks based on who buys the cigarettes the most and more fun ranks, which make the platform fun and interactive
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Potential Sponsors:-
 
-## Deploy on Vercel
+Godfrey Phillips (Marlboro)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The Indian Wood
+
+---
+
+ITC Limited (formerly India Tobacco Company Limited)
