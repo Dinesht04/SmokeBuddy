@@ -1,5 +1,7 @@
 This is a project made for 100xDevs SuperTeam Mini Hackathon, made with solana and <3
 
+‼️ STILL UNDER CONSTRUCTION ‼️ 
+
 ## SmokeParty. Manage your Smoking Groups without smoking your head. 
 
 In this Decentralized app, users can make a wallet, deposit funds, create and manage smoking groups all on the Solana Blockchain.
