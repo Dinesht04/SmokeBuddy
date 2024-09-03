@@ -47,6 +47,8 @@ ITC Limited (formerly India Tobacco Company Limited)
 
 ## Stack
 - Next 14
-- Firebase
+- Firebase - Firestore (DB)
+- TailwindCSS
+- Auth.js
 
 
